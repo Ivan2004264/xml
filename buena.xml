@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>ivan</title>
+<link>https://Ivan2004264.github.io/xml/buena.xml</link>
+<description>este es un repositorio de github</description>
+<item>
+<title>Esto es una pagina</title>
+<link>https://Ivan2004264.github.io/xml/web2.html</link>
+<description>esto es una pagina web</description>
+</item>
+<item>
+<title>Esto es una subpagina</title>
+<link>https://Ivan2004264.github.io/xml/counter2.html</link>
+<description>esto es una pagina de counter</description>
+</item>
+</channel>
+</rss>
